@@ -1,0 +1,28 @@
+practce
+dml
+joins subqueries
+string functions
+date functions
+select,subquery,aggreagate
+
+basics of ddl
+
+download and install jdk11
+sts--spring tool suite
+
+
+[5:50 PM] Javeed Trainer (Guest)--notes
+https://github.com/javeed512/Jan_Hexaware
+public class object
+{
+public object (){
+//create instances for refer class
+//generate hashcode
+/creating copy of instance classes
+/memory allocation etc
+
+equals
+hashcode
+tostring
+wait notify notify all 
+these all are the methods in the object method
